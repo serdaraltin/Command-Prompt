@@ -1,0 +1,18 @@
+c:\users\main\documents\visual studio 2010\Projects\Komut İstemcisi\Komut İstemcisi\obj\x86\Debug\Komut_İstemcisi.Form1.resources
+c:\users\main\documents\visual studio 2010\Projects\Komut İstemcisi\Komut İstemcisi\obj\x86\Debug\Komut_İstemcisi.Resources.resources
+c:\users\main\documents\visual studio 2010\Projects\Komut İstemcisi\Komut İstemcisi\obj\x86\Debug\Komut İstemcisi.vbproj.GenerateResource.Cache
+c:\users\main\documents\visual studio 2010\Projects\Komut İstemcisi\Komut İstemcisi\bin\Debug\Komut İstemcisi.exe
+c:\users\main\documents\visual studio 2010\Projects\Komut İstemcisi\Komut İstemcisi\bin\Debug\Komut İstemcisi.pdb
+c:\users\main\documents\visual studio 2010\Projects\Komut İstemcisi\Komut İstemcisi\bin\Debug\Komut İstemcisi.xml
+c:\users\main\documents\visual studio 2010\Projects\Komut İstemcisi\Komut İstemcisi\obj\x86\Debug\Komut İstemcisi.exe
+c:\users\main\documents\visual studio 2010\Projects\Komut İstemcisi\Komut İstemcisi\obj\x86\Debug\Komut İstemcisi.xml
+c:\users\main\documents\visual studio 2010\Projects\Komut İstemcisi\Komut İstemcisi\obj\x86\Debug\Komut İstemcisi.pdb
+\\VBOXSVR\c60600950600891f\Documents\Visual Studio 2010\Projects\Komut İstemcisi\Komut İstemcisi\obj\x86\Debug\Komut İstemcisi.exe
+\\VBOXSVR\c60600950600891f\Documents\Visual Studio 2010\Projects\Komut İstemcisi\Komut İstemcisi\obj\x86\Debug\Komut İstemcisi.xml
+\\VBOXSVR\c60600950600891f\Documents\Visual Studio 2010\Projects\Komut İstemcisi\Komut İstemcisi\obj\x86\Debug\Komut İstemcisi.pdb
+\\VBOXSVR\c60600950600891f\Documents\Visual Studio 2010\Projects\Komut İstemcisi\Komut İstemcisi\bin\Debug\Komut İstemcisi.exe
+\\VBOXSVR\c60600950600891f\Documents\Visual Studio 2010\Projects\Komut İstemcisi\Komut İstemcisi\bin\Debug\Komut İstemcisi.pdb
+\\VBOXSVR\c60600950600891f\Documents\Visual Studio 2010\Projects\Komut İstemcisi\Komut İstemcisi\bin\Debug\Komut İstemcisi.xml
+\\VBOXSVR\c60600950600891f\Documents\Visual Studio 2010\Projects\Komut İstemcisi\Komut İstemcisi\obj\x86\Debug\Komut_İstemcisi.Resources.resources
+\\VBOXSVR\c60600950600891f\Documents\Visual Studio 2010\Projects\Komut İstemcisi\Komut İstemcisi\obj\x86\Debug\Komut İstemcisi.vbproj.GenerateResource.Cache
+\\VBOXSVR\c60600950600891f\Documents\Visual Studio 2010\Projects\Komut İstemcisi\Komut İstemcisi\obj\x86\Debug\Komut_İstemcisi.komut_istemcisi.resources
